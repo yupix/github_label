@@ -1,7 +1,7 @@
 # github_label
 
 ```sh
-yarn
-yarn build
+pnpm
+pnpm build
 node ./built/index.js
 ```
